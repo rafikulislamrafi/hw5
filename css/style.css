@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F2F4F8 ;
+}
+.main {
+  width: fit-content;
+  margin: auto;
+  padding: 50px 0 40px 0;
+}
+.content{
+  width: 400px;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.photo img{
+  border-radius: 25px 25px 0 0;
+  width: 100%;
+  display: block;
+}
+.text{
+  padding: 10px 0 20px 20px;
+  border:1px solid black;
+  border-radius: 0 0 20px 20px;
+}
+.text h5{
+  color: #DF6866;
+}
+.fee{
+  position: absolute;
+}
+.fee a h4{
+  margin: 12px 0px ;
+  text-decoration: none;
+}
+.fee a{
+  margin: 12px 0px ;
+  text-decoration: none;
+  color: black;
+}
+.btn{
+ position: relative;
+}
+.btn a:hover {
+  color: aliceblue;
+  background-color: #FF7E31;
+}
+.btn a{
+  text-decoration: none;
+  display: inline-block;
+  color: #8c0000;
+  padding: 10px;
+}
+.btn-m{
+  margin: 0 0 0 195px;
+  width: fit-content;
+  border: 1px solid #FF7E31;
+  border-radius: 5px;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+/* creative it end */
+.star-tech{
+  margin: auto;
+  width: fit-content;
+  padding-top: 20px;
+}
+
+.s-tex{
+  margin: auto;
+  text-align: center;
+  width: fit-content;
+}
+.s-product{
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+}
+.s-image a img{
+  width: 100%;
+  border-radius: 15px 15px 0 0 ;
+}
+.s-details{
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 0 0 15px 15px;
+}
+.s-details h4 a{
+  text-decoration: none;
+  line-height: 150%;
+  color: black;
+}
+.price a h3{
+  color: #D51E0B;
+}
+.p-text{
+  text-decoration: line-through;
+  font-size: 15px;
+  color: black;
+}
+.price a {
+  text-decoration: none;
+}
+.mark{
+  background: #6e2594;
+  margin-top: 20px;
+  position: absolute;
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 0 10px 10px 0;
+}
